@@ -1,0 +1,15 @@
+h1 {
+    color:brown;
+    font-size: 70px;
+}
+
+#secondHeading {
+    color: green;
+    font-size: 20px;
+}
+
+p{
+    font-size: 40px;
+    font-family: "Courier New", "Courier";
+    color:purple;
+}
